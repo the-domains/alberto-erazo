@@ -1,7 +1,7 @@
 name: Alberto Erazo
 favicon: null
-layout_spectrum: 0.9404259391594678
-typography_spectrum: 0.36590645043179393
+layout_spectrum: 0.76535
+typography_spectrum: 0.15298
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.45819152472540736
-  lightness: 0.6246654621791095
-  saturation: 0.6186319200787693
-  rhythmicContrast: 0.25080206617712975
+    - '#ffffff'
+    - '#56b2f4'
+    - '#1879c4'
+    - '#9ad2f8'
+    - '#02131e'
+  brandStrength: 0.3125
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
